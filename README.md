@@ -1,2 +1,2 @@
 # cvtube
-Run OpenCV VideoCapture on a YouTube video clip online
+A sample code to run OpenCV VideoCapture on a YouTube video clip online
